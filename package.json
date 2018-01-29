@@ -1,0 +1,23 @@
+{
+  "name": "cardify",
+  "version": "1.0.0",
+  "description": "Cardify Challenge",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstrellaBF/cardify.git"
+  },
+  "author": "Estrella Benites, Daniela Pariona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstrellaBF/cardify/issues"
+  },
+  "homepage": "https://github.com/EstrellaBF/cardify#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
