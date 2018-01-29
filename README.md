@@ -7,7 +7,7 @@
 
 ***
 
-Implementar un plugin de jQuery que dado un contenedor debe buscar todas las imágenes que encuentre dentro del contenedor y reemplazarlas por un nuevo elemento <figure> que contenga la imagen (<img>) además de un <figcaption> con el texto del atributo alt de la imagen.
+Implementar un plugin de jQuery que dado un contenedor debe buscar todas las imágenes que encuentre dentro del contenedor y reemplazarlas por un nuevo elemento ´<figure>´ que contenga la imagen ´(<img>)´ además de un ´<figcaption>´ con el texto del atributo alt de la imagen.
 
 ```js
 const extractLinksFromMd = require('extract-links-from-md');
