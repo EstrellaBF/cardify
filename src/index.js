@@ -2,13 +2,13 @@
   // heredando características
   $.fn.extend({
     // nombre de mi plugin
-    cardify: function(defaultUser) {
+    cardify: function() {
       // crear el objeto aquí
       let defaultOption = {
         alt: 'alt'
       };
       // Se unirá los valores del defaultOptions y el defaultUser
-      opc = $.extend(defaultOption, defaultUser);
+      let opc = $.extend(defaultOption);
       // función constructora
       function init() {
         // console.log($(this).attr('alt'));

@@ -4,7 +4,7 @@
   "description": "Cardify Challenge",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "babel src -d public/js"
   },
   "repository": {
     "type": "git",
