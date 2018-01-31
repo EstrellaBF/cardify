@@ -1,7 +1,0 @@
-.img-plugin:hover {
-  border: 2px solid pink;
-  filter:alpha(opacity=50);
-  opacity: .5;
-  moz-opacity:.5;
-  khtml-opacity:.5;
-}

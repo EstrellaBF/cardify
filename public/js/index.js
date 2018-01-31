@@ -13,8 +13,7 @@
       var opc = $.extend(defaultOption);
       // función constructora
       function init() {
-        // console.log($(this).attr('alt'));
-        $(this).addClass('img-plugin').wrap('<figure></figure>').parent().append('<figcaption> ' + $(this).attr('alt') + ' </figcaption>');
+        $(this).addClass('').wrap('<figure class="flex-item image"></figure>').parent().append('<figcaption> ' + $(this).attr('alt') + ' </figcaption>');
       };
       // por cada elemento que se invoque inicializar el plugin
       return $(this).each(init);
