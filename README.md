@@ -36,5 +36,5 @@ Para poder hacer uso correcto del Plugin, sólo deberá incluir esta línea en s
 ![Imagen pasando mouse](/public/assets/img/img2.jpg)
 
 ## DEVELOPERS
-Daniela Pariona
+Daniela Pariona, 
 Estrella Benites 
