@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 module.exports = {myPlugin: (() => {
   // heredando características
   $.fn.extend({
@@ -20,8 +19,7 @@ module.exports = {myPlugin: (() => {
     }
   });
 })}(jQuery);
-=======
+
 $(document).ready(() => {
   $('.container-img').find('img').cardify();
 });
->>>>>>> c1be970fcf14dd697773c7209afcdda46146a2d5
