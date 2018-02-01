@@ -27,5 +27,9 @@ Para poder hacer uso correcto del Plugin, sólo deberá incluir esta línea en s
 ```
 
 ## VISTA PREVIA
+Muestra de las imágenes sin pasar el mouse.
+![Imagen sin mouse](/public/assets/img/img1.jpg)
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+
+Muestra de las imágenes sin pasar el mouse.
+![Imagen pasando mouse](/public/assets/img/img2.jpg)
