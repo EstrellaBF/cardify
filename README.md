@@ -13,6 +13,7 @@ Implementar un plugin de jQuery que dado un contenedor debe buscar todas las im�
 * **CSS:**_Es un lenguaje para definir el estilo o la apariencia de las páginas web._
 * **JavaScript:** _Se usa ECMAScript 5 y ECMAScript6._
 * **JQuery:** _Se usa con ECMAScript 5 y ECMAScript6._
+* **Node JS** _Es una plataforma de programación en JavaScript de propósitos generales que permite a los usuarios hacer aplicaciones de red rápidamente._
 * **Babel:** _Es un transcompilador que nos permite convertir nuestro código de JavaScript ES6 en código de ES5._
 * **Mocha:** _Framework de pruebas de JavaScript que se ejecuta en Node.js. Nos da la posibilidad de crear tanto tests síncronos como asíncronos de una forma muy sencilla._
 
@@ -27,9 +28,13 @@ Para poder hacer uso correcto del Plugin, sólo deberá incluir esta línea en s
 ```
 
 ## VISTA PREVIA
-Muestra de las imágenes sin pasar el mouse.
+**Muestra de las imágenes sin pasar el mouse.**
 ![Imagen sin mouse](/public/assets/img/img1.jpg)
 
 
-Muestra de las imágenes sin pasar el mouse.
+**Muestra de las imágenes sin pasar el mouse.**
 ![Imagen pasando mouse](/public/assets/img/img2.jpg)
+
+## DEVELOPERS
+Daniela Pariona
+Estrella Benites 
