@@ -1,0 +1,52 @@
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.flex-item {
+  width: 300px;
+  height: 250px;
+  font-size: 2em;
+  margin-top: 10px;
+  position: relative;
+}
+
+.image img {
+  width: 300px;
+  height: 250px;
+}
+
+.image img {
+  border-radius: 5px;
+  height: 100%;
+  transition: all .23s ease;
+  width: 100%;
+}
+
+.image figcaption {
+  color: #fff;
+  height: 100%;
+  left: 0;
+  line-height: 245px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all .23s ease;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.315);
+}
+
+.image figcaption {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.image:hover>figcaption {
+  opacity: 5;
+  visibility: visible;
+  font-weight: 700;
+}

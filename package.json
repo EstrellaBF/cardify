@@ -4,8 +4,12 @@
   "description": "Cardify Challenge",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "build": "babel src -d lib",
     "test": "mocha"
+=======
+    "build": "babel src -d public/js"
+>>>>>>> c1be970fcf14dd697773c7209afcdda46146a2d5
   },
   "repository": {
     "type": "git",
