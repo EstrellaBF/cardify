@@ -4,7 +4,8 @@
   "description": "Cardify Challenge",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "babel src -d lib",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,9 @@
   "homepage": "https://github.com/EstrellaBF/cardify#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1"
-  }
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  },
+  "dependencies": {}
 }

@@ -1,4 +1,4 @@
-(() => {
+module.exports = {myPlugin: (() => {
   // heredando características
   $.fn.extend({
     // nombre de mi plugin
@@ -18,4 +18,4 @@
       return $(this).each(init);
     }
   });
-})(jQuery);
+})}(jQuery);
